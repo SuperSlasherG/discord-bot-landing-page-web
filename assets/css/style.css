@@ -242,3 +242,7 @@ nav.nav-w {
     display: none;
   }
 }
+.skin-blue .sidebar-menu > li.active > a,
+.skin-blue .sidebar-menu > li:hover > a {
+  border-left-color: #ff0000;
+}
